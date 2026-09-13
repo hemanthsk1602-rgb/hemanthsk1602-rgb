@@ -1,12 +1,21 @@
 <div align="center">
 
-# 👋 Hi, I'm Hemanth S
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=HEMANTH%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=18" width="100%"/>
 
-### 🤖 AI/ML Engineer | Full-Stack Developer | Builder
+# 👋 Hey, I'm Hemanth
+
+### `AI/ML Engineer` · `Full-Stack Developer` · `Problem Solver`
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hemanthsk1602-rgb&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" />
+</p>
 
 <p>
   <a href="https://github.com/hemanthsk1602-rgb">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:hemanthsk1602@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -14,76 +23,147 @@
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-I'm an AI/ML engineering student passionate about building **real-world applications** that combine artificial intelligence, software development, and modern web technologies.
+> **Building intelligent software that solves real-world problems.**
 
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 💻 Building **full-stack web applications**
-- 🚀 Creating practical projects instead of just tutorials
-- 🧩 Learning **Data Structures & Algorithms**
-- 🌱 Continuously improving my development skills
-- 🎯 Working towards becoming an **AI Engineer**
+I'm an Artificial Intelligence & Machine Learning engineering student who enjoys turning ideas into working products.
+
+My interests sit at the intersection of:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Full-Stack Web Development
+- 🧩 Data Structures & Algorithms
+- ⚙️ Backend Systems & APIs
+- 🚀 Product Development
+
+I'm currently focused on becoming a strong **AI Engineer** while building projects that combine intelligent systems with modern software.
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
-### Languages
+### 🐍 Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
 </p>
 
-### Web Development
+### 🌐 Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-### AI / Data
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🤖 AI / ML
+
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Tools
+`Machine Learning` · `AI Applications` · `Data Processing` · `Automation`
+
+### 🛠️ Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏋️ FitPlus
+<table>
+<tr>
 
-A modern fitness platform designed around personalized workouts, fitness guidance and AI-powered features.
+<td width="50%">
 
-**Tech:** Next.js • TypeScript • Tailwind CSS • React
+## 🏋️ FitPlus
+
+A modern fitness platform focused on personalized workouts, fitness guidance and intelligent features.
+
+**Built with**
+
+`Next.js` `TypeScript` `React` `Tailwind CSS`
+
+**Focus**
+
+`AI` · `Fitness` · `Personalization` · `Modern UI`
+
+</td>
+
+<td width="50%">
+
+## 🌐 Developer Portfolio
+
+A responsive personal portfolio showcasing my development journey, projects and technical skills.
+
+**Built with**
+
+`HTML` `CSS` `JavaScript`
+
+**Focus**
+
+`UI/UX` · `Responsive Design` · `Animations`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 AI Projects
+
+Experiments and applications exploring artificial intelligence, Python automation and intelligent systems.
+
+**Built with**
+
+`Python` `AI/ML`
+
+**Focus**
+
+`Automation` · `AI` · `Problem Solving`
+
+</td>
+
+<td width="50%">
+
+## 🧩 More Projects
+
+I'm continuously building and experimenting with new ideas across AI, software development and full-stack engineering.
+
+**Coming next**
+
+`ML Projects` · `AI Applications` · `DSA`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🌐 Developer Portfolio
-
-My personal portfolio showcasing my projects, skills and development journey.
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
-### 🤖 AI Projects
-
-A collection of projects exploring Python, AI/ML concepts, automation and intelligent applications.
-
-**Tech:** Python • AI/ML
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hemanthsk1602-rgb&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=hemanthsk1602-rgb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthsk1602-rgb&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthsk1602-rgb&theme=tokyonight&hide_border=true" />
 
@@ -91,11 +171,26 @@ A collection of projects exploring Python, AI/ML concepts, automation and intell
 
 ---
 
-## 🎯 Currently
+# 🧭 My Learning Roadmap
 
 ```text
-🔭 Building     → AI-powered applications
-🌱 Learning     → Machine Learning + DSA
-💻 Developing   → Full-Stack Applications
-🚀 Exploring    → AI Engineering
-🎯 Goal         → Become an AI Engineer
+                    AI ENGINEER
+                        ▲
+                        │
+              ┌─────────┴─────────┐
+              │                   │
+        MACHINE LEARNING      SOFTWARE ENGINEERING
+              │                   │
+              ▼                   ▼
+          AI / ML            FULL-STACK
+              │                   │
+              ▼                   ▼
+        DATA + PYTHON        APIs + DATABASES
+              │                   │
+              └─────────┬─────────┘
+                        │
+                        ▼
+                 DATA STRUCTURES
+                        │
+                        ▼
+                   PROGRAMMING
